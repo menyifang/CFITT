@@ -1,17 +1,14 @@
 # CFITT
-The Implementation for "A Common Framework for Interactive Texture Transfer"
 
-<img src="./CFITT_easer.jpg" width="600" alt="Example"/>
+<img src="./CFITT_easer.jpg" width="700" alt="Example"/>
 
-### A Common Framework for Interactive Texture Transfer <br>(CVPR 2018, spotlight).
+### A Common Framework for Interactive Texture Transfer (CVPR 2018, spotlight).
 
 Project page: https://menyifang.github.io/projects/CFITT/CFITT.html
 
 Check our our [paper](<https://menyifang.github.io/projects/CFITT/CFITT_files/Men_A_Common_Framework_CVPR_2018_paper.pdf> )  and  [supplementary](<https://menyifang.github.io/projects/CFITT/CFITT_files/supp_CFITT.pdf>) here.
 
-
-## Conventional Online Texture Transfer (COTT)
-This also a Matlab imlementation of the paper "A Common Framework for Interactive Texture Transfer", CVPR 2018.
+This is a Matlab imlementation of the paper.
 
 ### Startup external codes: 
 Run the function startup.m.
